@@ -12,3 +12,6 @@ Run with `uv`:
 ```
 uv run streamlit run main.py
 ```
+
+## Example
+See [example.pdf](example.pdf) for a sample chat.
