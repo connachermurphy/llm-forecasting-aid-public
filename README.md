@@ -1,2 +1,14 @@
 # llm-forecasting-aid-public
-A forecasting coach
+An interactive, LLM-based forecasting coach.
+
+## Setup
+Use `uv` to create the virtual environment:
+```
+uv sync
+```
+
+## Exectuion
+Run with `uv`:
+```
+uv run streamlit run main.py
+```
